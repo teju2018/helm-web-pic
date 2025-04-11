@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  web:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-11T17:23:29.059558658+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 494bc35996ae390d33d5955a65027d25ccd7c88e7553443a6bdbd3f90e596f58
+    name: web
+    type: application
+    urls:
+    - https://teju2018.github.io/helm-web-pic/web-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-11T17:23:29.055526979+05:30"
